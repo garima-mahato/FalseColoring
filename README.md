@@ -1,9 +1,9 @@
 # FalseColoring
 ---
 
-![](https://raw.githubusercontent.com/genigarus/FalseColoring/master/images/Rsample1.jpg)
+![](https://raw.githubusercontent.com/genigarus/FalseColoring/master/images/Rsample2.jpeg)
 
-![](https://raw.githubusercontent.com/genigarus/FalseColoring/master/result_images/Rsample1_result.png)
+![](https://raw.githubusercontent.com/genigarus/FalseColoring/master/result_images/Rsample2_result.png)
 
 Prerequisites
 --------------
